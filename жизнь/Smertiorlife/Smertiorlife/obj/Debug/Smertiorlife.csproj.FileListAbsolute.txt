@@ -1,0 +1,52 @@
+C:\Users\ddden\source\repos\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe.config
+C:\Users\ddden\source\repos\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe
+C:\Users\ddden\source\repos\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.pdb
+C:\Users\ddden\source\repos\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.AssemblyReference.cache
+C:\Users\ddden\source\repos\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.SuggestedBindingRedirects.cache
+C:\Users\ddden\source\repos\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.Form1.resources
+C:\Users\ddden\source\repos\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.Properties.Resources.resources
+C:\Users\ddden\source\repos\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.GenerateResource.cache
+C:\Users\ddden\source\repos\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.CoreCompileInputs.cache
+C:\Users\ddden\source\repos\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.exe
+C:\Users\ddden\source\repos\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.pdb
+C:\Users\Omniline\Desktop\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe.config
+C:\Users\Omniline\Desktop\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe
+C:\Users\Omniline\Desktop\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.pdb
+C:\Users\Omniline\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.AssemblyReference.cache
+C:\Users\Omniline\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omniline\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.Form1.resources
+C:\Users\Omniline\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.Properties.Resources.resources
+C:\Users\Omniline\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.GenerateResource.cache
+C:\Users\Omniline\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.CoreCompileInputs.cache
+C:\Users\Omniline\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.exe
+C:\Users\Omniline\Desktop\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.pdb
+C:\Users\Кирилл\Desktop\Новая папка (2)\Новая папка\Smertiorlife1\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe.config
+C:\Users\Кирилл\Desktop\Новая папка (2)\Новая папка\Smertiorlife1\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe
+C:\Users\Кирилл\Desktop\Новая папка (2)\Новая папка\Smertiorlife1\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.pdb
+C:\Users\Кирилл\Desktop\Новая папка (2)\Новая папка\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Новая папка (2)\Новая папка\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\Desktop\Новая папка (2)\Новая папка\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.Form1.resources
+C:\Users\Кирилл\Desktop\Новая папка (2)\Новая папка\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Новая папка (2)\Новая папка\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Новая папка (2)\Новая папка\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Новая папка (2)\Новая папка\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.exe
+C:\Users\Кирилл\Desktop\Новая папка (2)\Новая папка\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.pdb
+C:\Users\Дмитрий\Desktop\Практика №2\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Практика №2\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дмитрий\Desktop\Практика №2\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.GameLife.resources
+C:\Users\Дмитрий\Desktop\Практика №2\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Практика №2\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\Практика №2\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Практика №2\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.exe
+C:\Users\Дмитрий\Desktop\Практика №2\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.pdb
+C:\Users\ddden\OneDrive\Рабочий стол\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.AssemblyReference.cache
+C:\Users\ddden\OneDrive\Рабочий стол\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.SuggestedBindingRedirects.cache
+C:\Users\ddden\OneDrive\Рабочий стол\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.gamelifetime.resources
+C:\Users\ddden\OneDrive\Рабочий стол\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.Properties.Resources.resources
+C:\Users\ddden\OneDrive\Рабочий стол\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.GenerateResource.cache
+C:\Users\ddden\OneDrive\Рабочий стол\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.CoreCompileInputs.cache
+C:\Users\ddden\OneDrive\Рабочий стол\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.exe
+C:\Users\ddden\OneDrive\Рабочий стол\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.pdb
+C:\Users\ddden\OneDrive\Рабочий стол\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe.config
+C:\Users\ddden\OneDrive\Рабочий стол\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe
+C:\Users\ddden\OneDrive\Рабочий стол\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.pdb
